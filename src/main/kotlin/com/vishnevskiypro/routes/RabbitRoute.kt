@@ -11,7 +11,7 @@ private val rabbits = listOf(
     Rabbit("Carl", "I cute down rabbit", "$BASE_URL/rabbits/rabbit1.jpeg"),
     Rabbit("Emma", "Emma likes to eat apples", "$BASE_URL/rabbits/rabbit2.jpeg"),
     Rabbit("Florian", "Florian is always hungry", "$BASE_URL/rabbits/rabbit3.jpeg"),
-    Rabbit("Gina", "Gina is a true beauty", "$BASE_URL/rabbits/rabbit4.jpg"),
+    Rabbit("Gina", "Gina is a true beauty", "$BASE_URL/rabbits/rabbit4.jpeg"),
     Rabbit("Federico", "Federico likes to climb mountains", "$BASE_URL/rabbits/rabbit5.jpeg")
 )
 
